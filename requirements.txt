@@ -1,0 +1,4 @@
+paramiko
+mysql-connector-python
+schedule
+cryptography
